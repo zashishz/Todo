@@ -1,5 +1,10 @@
 #container {
-    background: #ccc;
+    border: 2px solid #ccc;
     width: 360px;
     margin: 0 auto;
+}
+
+.completed {
+    color: #ccc;
+    text-decoration: line-through;
 }
